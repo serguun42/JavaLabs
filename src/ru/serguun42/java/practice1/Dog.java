@@ -5,18 +5,18 @@ public class Dog {
     private int age;
 
     public Dog(String _name, int _age) {
-        name = _name;
-        age = _age;
+        this.name = _name;
+        this.age = _age;
     }
 
     public Dog(String _name) {
-        name = _name;
-        age = 42;
+        this.name = _name;
+        this.age = 42;
     }
 
     public Dog() {
-        name = "Doggo";
-        age = 42;
+        this.name = "Doggo";
+        this.age = 42;
     }
 
     public void setName(String name) {
