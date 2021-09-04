@@ -35,6 +35,10 @@ public class Dog {
         return age;
     }
 
+    public String convertAgeToHumanLike() {
+        return "Dog's age is " + this.age * 7 + " (converted to human form)";
+    }
+
     public String ToString() {
         return "Dog { name: \"" + name + "\", age: \"" + age + "\"}";
     }
