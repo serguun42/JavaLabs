@@ -9,7 +9,7 @@ public class Practice1 {
         Scanner scanner = new Scanner(System.in);
         String name = scanner.nextLine();
 
-        if (name.length() == 0) {
+        if (name.isEmpty()) {
             System.out.println("Name can't be empty");
             return;
         }
@@ -36,7 +36,8 @@ public class Practice1 {
         if (nextAnswer.matches("^y")) {
             System.out.print("New name: ");
             name = scanner.nextLine();
-            doggo.setName(name);
+            if (!name.isEmpty())
+                doggo.setName(name);
         }
 
         System.out.print("Would you like to change dog's <age>? (y/n): ");
@@ -44,7 +45,8 @@ public class Practice1 {
         if (nextAnswer.matches("^y")) {
             System.out.print("New age: ");
             age = Integer.parseInt(scanner.nextLine());
-            doggo.setAge(age);
+            if (age >= 0)
+                doggo.setAge(age);
         }
 
         System.out.println("Your new dog: " + doggo.ToString());
