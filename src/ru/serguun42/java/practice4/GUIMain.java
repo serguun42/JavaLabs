@@ -119,7 +119,6 @@ class GUIMain extends JFrame {
 
         updateLabels();
 
-
         setExtendedState(JFrame.MAXIMIZED_BOTH);
         setVisible(true);
     }
