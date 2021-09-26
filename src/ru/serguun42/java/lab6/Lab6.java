@@ -3,8 +3,6 @@ package ru.serguun42.java.lab6;
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;
 import java.awt.*;
-import java.awt.event.MouseEvent;
-import java.awt.event.MouseListener;
 
 public class Lab6 extends JFrame {
     protected Font defaultFont = new Font("Roboto", Font.PLAIN, 14);
