@@ -7,7 +7,7 @@ import java.nio.file.Paths;
 public class Lab8 {
     public static void main(String[] args) {
         try {
-            Path inputFilePath = Paths.get(System.getProperty("user.dir"), "src", "ru", "serguun42", "java", "lab8", "lorem-input.txt");
+            Path inputFilePath = Paths.get(System.getProperty("user.dir"), "src/ru/serguun42/java", "lab8", "lorem-input.txt");
             String loremFancySize = readFromFileReader(new FileReader(inputFilePath.toString()));
 
             System.out.println("Here comes SIT AMET:");
@@ -29,5 +29,4 @@ public class Lab8 {
 
         return resultStringBuilder.toString();
     }
-
 }
