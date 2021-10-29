@@ -10,6 +10,7 @@ Author – [@serguun42](https://github.com/serguun42)
 * [lab9](./src/ru/serguun42/java/lab9)
 * [lab10](./src/ru/serguun42/java/lab10)
 * [practice9](./src/ru/serguun42/java/practice9)
+* [practice10](./src/ru/serguun42/java/practice10)
 
 #### Ранее проверенные работы:
 * Лабы
