@@ -1,13 +1,13 @@
-Полностью совместимо с PCRE2 (отлаживал в Javascript'е).
+Полностью совместимо с PCRE2 (отлаживал в Javascript'е и на regex101.com).
 Надо удалить комментарии, переносы и табы, чтобы работало в коде (см. Lab12TestRegexp.java).
 
 ^
-(?:
-	(?: this sub-group (non-capturing) is just
+(?: // non-capturing groups just because we can
+	(?: // in this sub-group checking just for 31th days of months
 		31
 		([\/])
 		(?:
-			0?[13578]|1[02] Only months 1, 3, 5, 7, 8, 10 and 12th contains 31 day
+			0?[13578]|1[02] // Only months 1, 3, 5, 7, 8, 10 and 12th contains 31 day
 		)
 	)\1 // this one – \1 – is «A back reference». So if date is delimiter once «/», it is for the whole string
 	|
