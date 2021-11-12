@@ -7,10 +7,7 @@ Author – [@serguun42](https://github.com/serguun42)
 ## Для проверяющего:
 
 #### Задания, требующие проверки:
-* [lab9](./src/ru/serguun42/java/lab9)
-* [lab10](./src/ru/serguun42/java/lab10)
-* [practice9](./src/ru/serguun42/java/practice9)
-* [practice10](./src/ru/serguun42/java/practice10)
+1. [lab12](./src/ru/serguun42/java/lab12)
 
 #### Ранее проверенные работы:
 * Лабы
@@ -22,6 +19,8 @@ Author – [@serguun42](https://github.com/serguun42)
   * [lab6](./src/ru/serguun42/java/lab6)
   * [lab7](./src/ru/serguun42/java/lab7)
   * [lab8](./src/ru/serguun42/java/lab8)
+  * [lab9](./src/ru/serguun42/java/lab9)
+  * [lab10](./src/ru/serguun42/java/lab10)
 * Практики
   * [practice1](./src/ru/serguun42/java/practice1)
   * [practice2](./src/ru/serguun42/java/practice2)
@@ -31,3 +30,5 @@ Author – [@serguun42](https://github.com/serguun42)
   * [practice6](./src/ru/serguun42/java/practice6)
   * [practice7](./src/ru/serguun42/java/practice7)
   * [practice8](./src/ru/serguun42/java/practice8)
+  * [practice9](./src/ru/serguun42/java/practice9)
+  * [practice10](./src/ru/serguun42/java/practice10)
