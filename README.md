@@ -10,6 +10,7 @@ Author – [@serguun42](https://github.com/serguun42)
 1. [practice11](./src/ru/serguun42/java/practice11) + [README](./src/ru/serguun42/java/practice11/README.md)
 2. [practice12](./src/ru/serguun42/java/practice12) + [README](./src/ru/serguun42/java/practice12/README.md)
 3. [practice16_and_lab16](./src/ru/serguun42/java/practice16_and_lab16) + [README](./src/ru/serguun42/java/practice16_and_lab16/README.md)
+3. [practiceFabric](./src/ru/serguun42/java/practiceFabric) + [README](./src/ru/serguun42/java/practiceFabric/README.md)
 
 #### Ранее проверенные работы:
 * Лабы
