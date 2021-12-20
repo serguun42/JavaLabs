@@ -81,7 +81,7 @@ public class TableOrdersManager implements OrdersManager {
     }
 
     public int[] freeTableNumbers() {
-        int[] freeTables = new int[this.ordersQuantity()];
+        int[] freeTables = new int[this.orders.length - this.ordersQuantity()];
         int position = 0;
 
         for (int i = 0; i < this.orders.length; i++)
