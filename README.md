@@ -1,19 +1,16 @@
 # JavaLabs
 
-Author – [@serguun42](https://github.com/serguun42)
+[@serguun42](https://github.com/serguun42)
 
 [LICENSE – Boost Software License](./LICENSE)
 
-## Для проверяющего:
+-------
 
-#### Задания, требующие проверки:
-1. [practice11](./src/ru/serguun42/java/practice11) + [README](./src/ru/serguun42/java/practice11/README.md)
-2. [practice12](./src/ru/serguun42/java/practice12) + [README](./src/ru/serguun42/java/practice12/README.md)
-3. [practice16_and_lab16](./src/ru/serguun42/java/practice16_and_lab16) + [README](./src/ru/serguun42/java/practice16_and_lab16/README.md)
-3. [practiceFabric](./src/ru/serguun42/java/practiceFabric) + [README](./src/ru/serguun42/java/practiceFabric/README.md)
+Some packages may contain their own README with instructions.
 
-#### Ранее проверенные работы:
-* Лабы
+Compile all source code into single Markdown file – [`java-labs-create-combined-markdown.js`](./java-labs-create-combined-markdown.js) 
+
+* Labs
   * [lab1](./src/ru/serguun42/java/lab1)
   * [lab2](./src/ru/serguun42/java/lab2)
   * [lab3](./src/ru/serguun42/java/lab3)
@@ -25,7 +22,7 @@ Author – [@serguun42](https://github.com/serguun42)
   * [lab9](./src/ru/serguun42/java/lab9)
   * [lab10](./src/ru/serguun42/java/lab10)
   * [lab12](./src/ru/serguun42/java/lab12)
-* Практики
+* Practices
   * [practice1](./src/ru/serguun42/java/practice1)
   * [practice2](./src/ru/serguun42/java/practice2)
   * [practice3](./src/ru/serguun42/java/practice3)
@@ -36,3 +33,7 @@ Author – [@serguun42](https://github.com/serguun42)
   * [practice8](./src/ru/serguun42/java/practice8)
   * [practice9](./src/ru/serguun42/java/practice9)
   * [practice10](./src/ru/serguun42/java/practice10)
+  * [practice11](./src/ru/serguun42/java/practice11)
+  * [practice12](./src/ru/serguun42/java/practice12)
+  * [practice16_and_lab16](./src/ru/serguun42/java/practice16_and_lab16)
+  * [practiceFabric](./src/ru/serguun42/java/practiceFabric)
